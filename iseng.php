@@ -5,7 +5,7 @@
 </head>
 <body>
 	<center>
-<h2>Hii Ajeng, how's ur day?</h2><br>
+<h2>Hii, how's ur day?</h2><br>
 <br>
 <table border="">
 <tr>
