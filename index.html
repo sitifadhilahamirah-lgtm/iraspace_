@@ -9,8 +9,8 @@
 <br>
 <table border="">
 <tr>
-	<a href="melelahkan.php"> <td>melelahkan?...</td></a>	
-	<a href="seru.php"><td>seru!!!...</td></a>
+	<a href="melelahkan.html"> <td>melelahkan?...</td></a>	
+	<a href="seru.html"><td>seru!!!...</td></a>
 </tr>
 </table>
 </center>
