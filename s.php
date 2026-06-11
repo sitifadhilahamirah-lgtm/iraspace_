@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<center>
+<h2>Alhamdulillah,<br>
+ semoga hari hari kamu selalu menyenangkan yahh</h2><br>
+
+ jangan lupa makan tepat waktu sama istirahat yang cukup yahh
+ </center>
+</body>
+</html>
