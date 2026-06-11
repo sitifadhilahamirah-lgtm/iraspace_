@@ -9,11 +9,11 @@
 <br>
 <table border="">
 <tr>
-	<a href="m.php"> melelahkan?...</a>	
+	<a href="melelahkan.php"> melelahkan?...</a>	
 </tr> <br> or <br>
 
 <tr>
-	<a href="s.php"> seru!!!...</a>
+	<a href="seru.php"> seru!!!...</a>
 </tr>
 </table>
 </center>
