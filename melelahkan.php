@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<center>
+	<h2>
+		isokayy ajenggg,<br>
+		 kamu sudah berusaha melewati hari ini dengan baik <br>
+		 jangan lupa istirahat yang cukup yahh sengg, <br>
+		  coba telfon ragil siapa tau bisa melupakan kelelahan kamu hri inii	<br>
+		  insyaallah besok seruu, jangan terpaku dihari ini yahh!!! loveee
+
+	</h2>
+</center>
+</body>
+</html>
